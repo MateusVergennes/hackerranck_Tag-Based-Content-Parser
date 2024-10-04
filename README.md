@@ -4,6 +4,13 @@ The solution is illustrated in the flowchart below:
 
 ![Flowchart] ![diagram](https://github.com/user-attachments/assets/ae6084b1-f42c-450c-a36d-eb5ba00e4bf3)
 
+## Test Results
+
+The following are the results of the tests conducted:
+
+![Test Results] ![solutionResult](https://github.com/user-attachments/assets/aa6974d5-6755-4c72-9a6b-d86a61747b6e)
+
+
 
 ## Problem Statement
 

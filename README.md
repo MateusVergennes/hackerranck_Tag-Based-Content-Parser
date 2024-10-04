@@ -2,7 +2,7 @@
 
 The solution is illustrated in the flowchart below:
 
-![Flowchart] ![diagram](https://github.com/user-attachments/assets/387458cf-2ee6-44b5-be66-b01be6ed1613)
+![Flowchart] ![diagram](https://github.com/user-attachments/assets/29532347-e1bf-4e01-9c37-5d8a35974c6a)
 
 
 ## Test Results
